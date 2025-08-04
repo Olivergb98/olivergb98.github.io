@@ -1,93 +1,110 @@
 # Oliver González Bagatella
 
-**Data Scientist | ML Engineer | NLP Enthusiast**  
-📍 Puebla, Mexico  
+## 👋 Hola, soy Oliver González
+
+**Científico de Datos Junior** especializado en Machine Learning y Procesamiento de Lenguaje Natural (NLP).  
+Apasionado por resolver problemas reales con datos y construir soluciones que generen impacto.
+
+📍 Puebla, México  
 📧 olivergb98@gmail.com  
-[GitHub](https://github.com/Olivergb98) • [LinkedIn](https://www.linkedin.com/in/oliver-gb/)
+🔗 [GitHub](https://github.com/Olivergb98) • [LinkedIn](https://www.linkedin.com/in/oliver-gb/)
 
 ---
 
-## 👋 About Me
+## 🚀 Sobre mí
 
-I'm a Data Scientist with a background in Agronomic Engineering and a strong focus on Machine Learning, Natural Language Processing (NLP), and applied statistics. I specialize in identifying patterns in complex datasets, building predictive models, and translating real-world problems into actionable data-driven solutions.
+Soy ingeniero agrónomo de formación y me transformé en científico de datos a través de un bootcamp intensivo en TripleTen. Me interesa todo lo que tenga que ver con aprender cosas nuevas, experimentar con modelos de machine learning y analizar datos con sentido.
 
-My recent work includes text classification with BERT, regression model optimization, and full-lifecycle data projects—from data cleaning to deployment-ready outputs.
-
----
-
-## 📚 Education
-
-**Bachelor’s in Agronomic Engineering**  
-Universidad Popular Autónoma del Estado de Puebla (UPAEP)  
-*2018 – 2023*
-
-**Data Science Bootcamp – TripleTen**  
-*2024 – 2025*
+Actualmente trabajo como **anotador de datos para modelos de lenguaje (LLMs)**, mientras desarrollo proyectos personales para seguir creciendo en el área de ciencia de datos.
 
 ---
 
-## 🧠 Technical Skills
+## 🧪 Proyectos destacados
 
-- **Languages:** Python, SQL  
-- **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
-- **Machine Learning:** Regression, Classification, Random Forest, LGBM, Hyperparameter Tuning  
-- **NLP:** NLTK, SpaCy, BERT, TfidfVectorizer  
-- **Visualization:** Matplotlib, Seaborn  
-- **Tools:** Jupyter, Git, Streamlit  
-- **Languages:** Spanish (native), English (advanced)
+### 📊 [Predicción de cancelación de clientes – Proyecto Final](https://github.com/Olivergb98/churn-prediction-telecom)
+**Tipo de proyecto:** Clasificación  
+**Herramientas:** Pandas, Scikit-learn, Gradient Boosting  
+**Qué hice:**  
+- Analicé datos de clientes de una empresa de telecomunicaciones  
+- Entrené modelos para predecir cancelaciones  
+- Proporcioné recomendaciones accionables para reducir la pérdida de clientes
+
+---
+### 🧓 [Predicción de edad a partir de imágenes con ResNet50](https://github.com/Olivergb98/Computer-vision)
+**Tipo de proyecto:** Visión por computadora – Regresión  
+**Herramientas:** TensorFlow, Keras, ResNet50, Pillow, ImageDataGenerator  
+**Qué hice:**  
+- Utilicé un dataset de 7600 imágenes de rostros humanos con etiquetas de edad real  
+- Apliqué preprocesamiento con `ImageDataGenerator` para normalización, resize y augmentación  
+- Implementé **transfer learning** con la arquitectura **ResNet50** como extractor de características  
+- Entrené un modelo de regresión con capas densas y función de pérdida basada en MAE (Error Medio Absoluto)
+- Alcancé un **MAE de 6.09 años** en el conjunto de validación, mostrando buen desempeño en edades medias
+
 
 ---
 
-## 💼 Work Experience
-
-**Data Annotator – DataAnnotation**  
-*Apr 2025 – Present*  
-- Manual annotation and validation of multimodal data (text, images, audio) for LLM training  
-- Maintained semantic accuracy across diverse datasets used in AI development  
-- Applied rigorous quality checks to enhance model performance
-
-**Territorial Research Assistant – Agrova Avalúos**  
-*2018 – Present*  
-- Supported appraisals for rural properties through geographic, cadastral, and socioeconomic data  
-- Conducted field visits and interviews  
-- Delivered analysis for land valuation studies
-
-**Quality Assurance Specialist – Scale AI**  
-*Dec 2021 – May 2023*  
-- Performed validation of datasets for supervised ML  
-- Ensured quality control across high-volume data tasks  
-- Adapted quickly to project changes and tight deadlines
+### 🎬 [Clasificación de sentimiento en reseñas de películas](https://github.com/Olivergb98/Aprendizaje-para-textos--NLP-)
+**Tipo de proyecto:** NLP – Clasificación de texto  
+**Herramientas:** Tfidf, BERT, LGBM  
+**Qué hice:**  
+- Procesé texto con técnicas modernas de NLP  
+- Comparé modelos clásicos vs. embeddings preentrenados  
+- Logré un F1-score del 89%
 
 ---
 
-## 🧪 Selected Projects
-
-### 🔹 Final Bootcamp Project – Customer Churn Prediction (Telco)
-**[View on GitHub](https://github.com/Olivergb98/Proyecto_final_telco)**  
-Used a real-world telecommunications dataset to predict customer churn.  
-- Cleaned and preprocessed data, handled imbalances  
-- Trained models: Logistic Regression, Decision Tree, Gradient Boosting  
-- Achieved accuracy above 80% with business insights for retention strategy  
-- Included EDA, feature engineering, and recommendations
-
----
-
-### 🔹 Movie Review Sentiment Classification (NLP)
-Applied NLP to classify movie reviews as positive or negative.  
-- Used Tfidf and BERT embeddings  
-- Compared Logistic Regression and LGBM models  
-- Achieved 89% F1 score and reduced training time by 30%
-
-### 🔹 Mobile Plan Optimization
-Built ML models to evaluate whether customer plans match actual usage.  
-- Explored usage patterns and trained Regression models  
-- Used GridSearchCV for hyperparameter tuning  
-- Provided data-backed business suggestions
+### 📱 [Clasificación de planes telefónicos](https://github.com/Olivergb98/Clasificacion-de-planes-telefonicos)
+**Tipo de proyecto:** Clasificación binaria  
+**Herramientas:** Scikit-learn, Pandas, RandomForest, Árbol de decisión, Regresión logística  
+**Qué hice:**  
+- Analicé datos de uso de llamadas, mensajes y navegación para clientes de Megaline  
+- Entrené varios modelos para predecir si un cliente debía usar el plan “Ultra”  
+- Realicé ajustes de hiperparámetros para optimizar precisión y tiempo de ejecución  
+- **El modelo Random Forest alcanzó una precisión de 82%**, siendo el más equilibrado en desempeño  
+- Brindé una recomendación técnica para elegir el modelo más eficiente para producción
 
 ---
 
-## 🚀 Let’s Connect
+## 🧠 Habilidades
 
-I’m currently open to junior roles in Data Science, Machine Learning, or Analytics.  
-If you’re hiring or just want to talk about data, reach out!
+- **Lenguajes:** Python, SQL  
+- **ML/NLP:** Scikit-learn, TensorFlow, SpaCy, BERT  
+- **Análisis:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Herramientas:** Jupyter, Git, Streamlit  
+- **Idiomas:** Español (nativo), Inglés (avanzado)
+
+---
+
+## 💼 Experiencia laboral
+
+### DataAnnotation (2025 - actual)
+*Anotación y validación de datos para entrenar modelos de lenguaje (texto, imágenes, audio)*  
+- Garantizo precisión semántica en los datos  
+- Trabajo con criterios técnicos exigentes  
+- Apoyo la mejora de LLMs para distintas tareas
+
+### Agrova Avalúos (2018 - actual)
+*Asistente de investigación territorial*  
+- Recopilo y analizo datos geográficos y socioeconómicos  
+- Apoyo estudios de valuación rural
+
+### Scale AI (2021 - 2023)
+*Especialista en control de calidad de datos*  
+- Clasificación y validación de datasets para proyectos de ML  
+- Ejecución eficiente bajo presión y en entornos ágiles
+
+---
+
+## 🎓 Formación
+
+- **Ingeniería en Agronomía** – UPAEP (2018–2023)  
+- **Bootcamp de Ciencia de Datos** – TripleTen (2024–2025)
+
+---
+
+## 📬 ¿Hablamos?
+
+Estoy buscando oportunidades como **Científico de Datos Junior** o **Analista de Datos**.  
+Si tienes un proyecto, una vacante o simplemente quieres intercambiar ideas, ¡contáctame!
+
 
