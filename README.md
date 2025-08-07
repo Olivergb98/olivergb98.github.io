@@ -1,6 +1,6 @@
 # Oliver González Bagatella
 
-## 👋 Hola, soy Oliver González
+## 👋 Hola, soy Oliver
 
 **Científico de Datos Junior** especializado en Machine Learning y Procesamiento de Lenguaje Natural (NLP).  
 Apasionado por resolver problemas reales con datos y construir soluciones que generen impacto.
@@ -72,33 +72,6 @@ Actualmente trabajo como **anotador de datos para modelos de lenguaje (LLMs)**, 
 - **Análisis:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Herramientas:** Jupyter, Git, Streamlit  
 - **Idiomas:** Español (nativo), Inglés (avanzado)
-
----
-
-## 💼 Experiencia laboral
-
-### DataAnnotation (2025 - actual)
-*Anotación y validación de datos para entrenar modelos de lenguaje (texto, imágenes, audio)*  
-- Garantizo precisión semántica en los datos  
-- Trabajo con criterios técnicos exigentes  
-- Apoyo la mejora de LLMs para distintas tareas
-
-### Agrova Avalúos (2018 - actual)
-*Asistente de investigación territorial*  
-- Recopilo y analizo datos geográficos y socioeconómicos  
-- Apoyo estudios de valuación rural
-
-### Scale AI (2021 - 2023)
-*Especialista en control de calidad de datos*  
-- Clasificación y validación de datasets para proyectos de ML  
-- Ejecución eficiente bajo presión y en entornos ágiles
-
----
-
-## 🎓 Formación
-
-- **Ingeniería en Agronomía** – UPAEP (2018–2023)  
-- **Bootcamp de Ciencia de Datos** – TripleTen (2024–2025)
 
 ---
 
